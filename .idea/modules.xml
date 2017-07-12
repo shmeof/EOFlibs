@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EOFlibs.iml" filepath="$PROJECT_DIR$/EOFlibs.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eofbase/eofbase.iml" filepath="$PROJECT_DIR$/eofbase/eofbase.iml" />
     </modules>
   </component>
 </project>
